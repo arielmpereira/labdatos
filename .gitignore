@@ -1,0 +1,20 @@
+# Ignorar entornos virtuales
+env/
+venv/
+
+# Archivos creados por Python
+__pycache__/
+*.py[cod]
+
+# Configuración de logs y bases de datos locales
+*.log
+db.sqlite3
+
+# Configuración de entorno
+.env
+
+# Archivos creados por IDEs
+.idea/
+.vscode/
+*.swp
+
