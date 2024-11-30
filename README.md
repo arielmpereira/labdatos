@@ -6,18 +6,19 @@
 
 ## Introducción
 
-En un mundo impulsado por los datos, la capacidad de analizar, interpretar y modelar información se ha convertido en una habilidad esencial. **Laboratorio de Datos** nace como una plataforma educativa y práctica para quienes desean aprender y perfeccionar sus conocimientos en ciencia de datos.
+En un mundo cada vez más impulsado por los datos, la ciencia de datos se ha convertido en una habilidad esencial tanto para profesionales como para estudiantes. Sin embargo, aprender y practicar estas habilidades a menudo se ve limitado por la falta de plataformas accesibles y prácticas.
 
-Ya sea que estés dando tus primeros pasos o busques resolver problemas avanzados, esta plataforma ofrece una experiencia completa que combina:
+**LabDatos** se propone cerrar esta brecha ofreciendo:
 
-- **Contenido educativo**: Teoría estructurada y ejemplos prácticos.
-- **Desafíos interactivos**: Problemas que te retan a aplicar lo aprendido.
-- **Acceso a datasets**: Datos reales para análisis y práctica.
-- **Comunidad activa**: Un espacio para aprender colaborativamente.
+* Recursos educativos gratuitos: Desde tutoriales teóricos hasta ejemplos prácticos y desafíos interactivos.
+
+* Acceso a datasets reales: Una base de datos categorizada y lista para ser utilizada.
+
+* Un espacio comunitario: Para aprender, colaborar y compartir proyectos.
 
 ---
 
-## Objetivo del Proyecto
+## Objetivos del Proyecto
 
 - **Publicar contenido educativo extenso**:  
   Publicar una amplia variedad de materiales educativos relacionados con la ciencia de datos (teoría, ejemplos, tutoriales prácticos).
@@ -39,9 +40,25 @@ Ya sea que estés dando tus primeros pasos o busques resolver problemas avanzado
 ## Público Objetivo
 
 El sitio está diseñado para:
-- **Estudiantes:** Que desean una introducción clara y progresiva en la ciencia de datos.  
-- **Docentes:** Que buscan materiales educativos para complementar sus clases.  
-- **Profesionales:** Que desean adquirir o mejorar habilidades específicas en ciencia de datos.  
+- **Estudiantes:** Acceso a tutoriales introductorios con ejercicios guiados.
+
+- **Docentes:** Recursos reutilizables en clases, como datasets y ejemplos.
+  
+- **Profesionales:** Desafíos avanzados y proyectos prácticos que simulan problemas del mundo real.
+
+---
+
+## Diferenciadores
+
+LabDatos se diferencia de otras plataformas en los siguientes aspectos:
+
+*Integración fluida de teoría y práctica: El usuario puede aplicar inmediatamente lo aprendido con ejemplos prácticos y desafíos relacionados.
+
+* Acceso gratuito: Una amplia sección de recursos está disponible sin costo alguno, eliminando barreras de entrada.
+
+* Enfoque comunitario: Fomentamos la colaboración activa entre usuarios a través de un foro diseñado para la interacción y el aprendizaje compartido.
+
+* Simplicidad y accesibilidad: Diseñado con una interfaz amigable que no requiere conocimientos técnicos avanzados.
 
 ---
 
