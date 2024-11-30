@@ -52,7 +52,7 @@ El sitio está diseñado para:
 
 LabDatos se diferencia de otras plataformas en los siguientes aspectos:
 
-*Integración fluida de teoría y práctica: El usuario puede aplicar inmediatamente lo aprendido con ejemplos prácticos y desafíos relacionados.
+* Integración fluida de teoría y práctica: El usuario puede aplicar inmediatamente lo aprendido con ejemplos prácticos y desafíos relacionados.
 
 * Acceso gratuito: Una amplia sección de recursos está disponible sin costo alguno, eliminando barreras de entrada.
 
